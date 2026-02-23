@@ -1,0 +1,7 @@
+{
+  "name": "Working Pay Per Laugh - AI Comedy Club",
+  "description": "A real-time AI-powered comedy club experience where you pay for every smile detected via your webcam. Featuring facial expression tracking and automated billing.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
